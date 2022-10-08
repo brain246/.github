@@ -1,2 +1,2 @@
 # :wave: Hey there! I am using ~~WhatsApp~~ Github.
-&copy;[brain246](github.totter.pw)
+&copy;[brain246](https://github.totter.pw)
