@@ -1,2 +1,6 @@
 # :wave: Hey there! I am using ~~WhatsApp~~ Github.
-&copy;[brain246](https://github.totter.pw)
+
+[-> Blog](https://blog.totter.pw)
+
+
+<sub>&copy;[brain246](mailto:thomas@totter.pw)</sub>
